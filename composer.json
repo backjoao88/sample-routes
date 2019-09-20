@@ -1,0 +1,16 @@
+{
+    "autoload": {
+        "psr-4": {
+            "controllers\\":[
+                "controllers/"
+            ],
+            "core\\": [
+                "core/"
+            ]
+        }
+    },
+
+    "require-dev": {
+        "phpunit/phpunit": "^4"
+    }
+}
